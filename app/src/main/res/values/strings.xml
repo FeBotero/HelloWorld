@@ -3,6 +3,8 @@
     <string name="primeiro_app">Primeiro App</string>
     <string name="hoje_segunda">Hoje é segunda</string>
     <string name="cliqueme">Cliqueme</string>
+    <string name="sobre_menu_texto" />
+    <string name="alterar">Alterar</string>
 
 
 </resources>
